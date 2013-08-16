@@ -2281,8 +2281,8 @@
     <string name="audio_profile_rename">Переименовать</string>
     <string name="audio_profile_category_custom_title">Пользовательские профили</string>
     <string name="audio_profile_category_predefine_title">Установленные профили</string>
-    <string name="general_settings_title">Общие</string>
-    <string name="silent_settings_title">Без звука</string>
+    <string name="general_settings_title">Обычный</string>
+    <string name="silent_settings_title">Тихий</string>
     <string name="meeting_settings_title">Совещание</string>
     <string name="outdoor_settings_title">На улице</string>
     <string name="sound_category_feedback_title">Система</string>
